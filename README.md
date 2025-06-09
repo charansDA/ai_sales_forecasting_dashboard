@@ -24,7 +24,6 @@ This project replicates the work I did during my internship at Comcast (via Maje
 - `/Dashboards`: dashboard file (.pbix) + screenshots
 - `/Docs`: mock requirements and AI prompt notes
 
-## 🔗 What This Shows
-✅ End-to-end workflow from raw data → cleaned SQL → insights in Power BI  
-✅ Ability to simulate real-world business problems  
-✅ Creative use of AI to speed up reporting and stakeholder understanding
+## What This Shows
+End-to-end workflow from raw data → cleaned SQL → insights in Power BI  
+Ability to simulate real-world business problems  Creative use of AI to speed up reporting and stakeholder understanding
