@@ -1,4 +1,4 @@
-# AI-Driven Sales Forecast & Compliance Dashboard (Comcast Simulation)
+# AI-Driven Sales Forecast & Compliance Dashboard
 
 This project replicates the work I did during my internship at Comcast (via Majestic IT), combining sales analytics, SQL automation, and AI-generated insights for executive reporting and compliance monitoring.
 
